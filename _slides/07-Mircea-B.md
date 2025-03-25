@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck! :D modification _test"
+title: "Welcome to our slide deck! :D modification _test_pull request"
 ---
 
 Caption here
