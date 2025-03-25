@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Saket's slide deck!"
 ---
 
-Caption here
+Mr. Catstello
 
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
